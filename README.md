@@ -9,4 +9,4 @@ First Build the project using:
 
 Then run the project using:
 
-./utrip.out $(HOTELS_FILE_ADDRESS) $(RATINGS_FILE_ADDRESS)
+`./utrip.out $(HOTELS_FILE_ADDRESS) $(RATINGS_FILE_ADDRESS)`
